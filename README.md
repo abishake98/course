@@ -1,6 +1,7 @@
 # course
 
 First Week (Business Week)
+Finished with GIT Tutorial
 
 Second Week (Python)
 

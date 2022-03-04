@@ -1,3 +1,5 @@
 # course
 
-First Week(Business Week)
+First Week (Business Week)
+
+Second Week (Python)
